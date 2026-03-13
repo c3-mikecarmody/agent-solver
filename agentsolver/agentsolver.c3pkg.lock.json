@@ -1,0 +1,8 @@
+{
+  "version" : "1.0.0",
+  "declaredDependencies" : {
+    "uiComponentLibraryReact" : "8.9",
+    "platform" : "8.9"
+  },
+  "resolvedDependencies" : { }
+}
