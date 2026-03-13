@@ -1,0 +1,2 @@
+# C3 extension connection – local only (stops remote/CI from overwriting with dev)
+.vscode/.c3-extension-settings.json
