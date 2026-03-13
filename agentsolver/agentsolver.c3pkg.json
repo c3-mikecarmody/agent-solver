@@ -1,0 +1,10 @@
+{
+  "name": "agentsolver",
+  "version": "1.0.0",
+  "description": "AI Acceleration Assistant: notes, search, Confluence/Jira/C3, Genesis deployment",
+  "author": "C3 AI",
+  "dependencies": {
+    "platform": "8.9",
+    "uiComponentLibraryReact": "8.9"
+  }
+}
